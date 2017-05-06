@@ -1,0 +1,2 @@
+Modo vertical: width: 1620  height: 2160
+Modo horizontal: width: 2160 height: 1620
